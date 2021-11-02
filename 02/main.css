@@ -1,0 +1,78 @@
+body{
+    background-color: #eee;
+    display: flex;
+    height: 100%;
+    flex-direction: row;
+}
+caption{
+    font-size: 20px;
+    padding: 10px;
+    height: 25px;
+}
+
+table{
+    max-height: 80%;
+    padding: 10px;
+    /* height: 80%; */
+    width: 50%;
+    background-color: white;
+    border-color: E1E2DA;
+    border-collapse: collapse;
+    font-size: 15px;
+    border-style: solid;
+    border: 1px solid #E1E2DA;
+}
+
+td{
+    padding: 2px;
+    border: 1px solid #E1E2DA;
+    height: 6%;
+    border-color: #60615a;
+    border-width: 0.25px;
+    text-align: center;
+}
+
+.explain{
+    width: 50%;
+    height: 80%;
+    top: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.title{
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    height: 25px;
+}
+.content{
+    border: solid black 1px;
+}
+
+.course{
+    padding: 15px;
+    /* background-color: #72A5C2; */
+    
+    border-radius: 2px;
+}
+
+/* #web,#design{
+    border: #FF4F4F 1px solid;
+    background-color: #FF4F4F;
+}
+
+#os{
+    border: #ffc400 1px solid;
+    background-color: #ffc400;
+}
+#xi,#job{
+    border: rgb(45, 240, 240) 1px solid;
+    background-color: rgba(21, 226, 226, 0.836);
+}
+#compile,#se{
+    border: #02f637 1px solid;
+    background-color: #12f343bb;
+}
+#English,#ai{
+    background-color: #368E33;
+} */
